@@ -291,12 +291,5 @@ If you want the full report of project
 
 ![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/4-feed-data.png?raw=true)
 
-**Pie Chart Analytical Representation of clusters**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/5-pieexp.png?raw=true)
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/6-piescre.jpg?raw=true)
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
-
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
